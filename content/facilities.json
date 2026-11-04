@@ -1,0 +1,1669 @@
+[
+  {
+    "id": "multipurpose",
+    "name": "다목적실",
+    "location": "3동 1층",
+    "capacity": 150,
+    "publicationStatus": "published",
+    "updatedAt": "2026-10-31",
+    "contact": {
+      "phone": "",
+      "hours": ""
+    },
+    "guides": [
+      {
+        "id": "multipurpose-power",
+        "facilityId": "multipurpose",
+        "category": "usage",
+        "title": "전자교탁·PC 켜기",
+        "summary": "전자교탁 메인 전원 → PC 전원",
+        "published": true,
+        "steps": [
+          {
+            "id": "multipurpose-power-1",
+            "instruction": "전자교탁 옆면의 빨간 메인 전원을 켜 주세요. 이미 켜져 있으면 다시 끄지 마세요. 보조패널과 유선마이크에 전원이 들어옵니다.",
+            "photoIds": [
+              "multipurpose-power"
+            ]
+          },
+          {
+            "id": "multipurpose-power-2",
+            "instruction": "PC 본체의 전원 버튼을 한 번 눌러 주세요. Windows 화면이 나타나는지 확인해 주세요.",
+            "photoIds": [
+              "multipurpose-pc"
+            ]
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "multipurpose-power-fail",
+        "facilityId": "multipurpose",
+        "category": "troubleshooting",
+        "title": "컴퓨터가 켜지지 않아요",
+        "summary": "전자교탁과 PC 전원은 각각 켜야 합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "multipurpose-power-fail-1",
+            "instruction": "전자교탁 옆면의 빨간 메인 전원을 켜 주세요. 이미 켜져 있으면 다시 끄지 마세요. 보조패널과 유선마이크에 전원이 들어옵니다.",
+            "photoIds": [
+              "multipurpose-power"
+            ]
+          },
+          {
+            "id": "multipurpose-power-fail-2",
+            "instruction": "PC 본체의 전원 버튼을 한 번 눌러 주세요. Windows 화면이 나타나는지 확인해 주세요.",
+            "photoIds": [
+              "multipurpose-pc"
+            ]
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "multipurpose-projector",
+        "facilityId": "multipurpose",
+        "category": "usage",
+        "title": "프로젝터 켜기",
+        "summary": "리모컨 전원 버튼을 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "multipurpose-projector-1",
+            "instruction": "프로젝터를 향해 리모컨 왼쪽 위 빨간 전원 버튼을 눌러 주세요. 이미 화면이 나오고 있으면 누르지 마세요.",
+            "photoIds": [
+              "multipurpose-remote"
+            ]
+          },
+          {
+            "id": "multipurpose-projector-2",
+            "instruction": "스크린에 화면이 나타나는지 확인해 주세요. 화면이 없으면 담당자에게 문의해 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "multipurpose-wired",
+        "facilityId": "multipurpose",
+        "category": "usage",
+        "title": "유선마이크 사용",
+        "summary": "교탁 전원과 ON 상태를 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "multipurpose-wired-1",
+            "instruction": "전자교탁 메인 전원을 켠 뒤 사진의 유선마이크 스위치가 ON인지 확인해 주세요. 말소리가 나오는지 확인해 주세요.",
+            "photoIds": [
+              "multipurpose-wired"
+            ]
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "multipurpose-mic",
+        "facilityId": "multipurpose",
+        "category": "usage",
+        "title": "무선마이크 켜기",
+        "summary": "아래쪽 버튼을 길게 눌러 주세요.",
+        "published": true,
+        "steps": [
+          {
+            "id": "multipurpose-mic-1",
+            "instruction": "사진의 무선마이크 아래쪽 전원 버튼을 길게 눌러 켜 주세요.",
+            "photoIds": [
+              "multipurpose-mic"
+            ]
+          },
+          {
+            "id": "multipurpose-mic-2",
+            "instruction": "측면 표시창에서 배터리 잔량을 확인해 주세요. 잔량이 부족하면 담당자에게 문의해 주세요.",
+            "photoIds": [
+              "multipurpose-battery"
+            ]
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "multipurpose-mic-fail",
+        "facilityId": "multipurpose",
+        "category": "troubleshooting",
+        "title": "마이크가 작동하지 않아요",
+        "summary": "유선·무선마이크를 구분합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "multipurpose-mic-fail-1",
+            "instruction": "유선마이크는 전자교탁 전원과 마이크의 ON 상태를 확인해 주세요.",
+            "photoIds": [
+              "multipurpose-wired"
+            ]
+          },
+          {
+            "id": "multipurpose-mic-fail-2",
+            "instruction": "무선마이크는 아래쪽 버튼을 길게 누른 뒤 측면 표시창·배터리를 확인해 주세요.",
+            "photoIds": [
+              "multipurpose-mic",
+              "multipurpose-battery"
+            ]
+          },
+          {
+            "id": "multipurpose-mic-fail-3",
+            "instruction": "전원은 켜졌는데 소리가 나지 않거나 배터리가 부족하면 담당자에게 문의해 주세요. 음향랙은 조작하지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "multipurpose-light",
+        "facilityId": "multipurpose",
+        "category": "rules",
+        "title": "강의 중 조명",
+        "summary": "사진의 검은 동그라미 표시 구역만 소등합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "multipurpose-light-1",
+            "instruction": "사진에서 검은 동그라미가 표시된 구역만 강의 중 꺼 주시고, 나머지 조명은 켜 주세요.",
+            "photoIds": [
+              "multipurpose-light",
+              "multipurpose-map"
+            ]
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "multipurpose-banner",
+        "facilityId": "multipurpose",
+        "category": "rules",
+        "title": "현수막 높이 조절",
+        "summary": "맨 왼쪽 세로줄의 세 버튼만 사용합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "multipurpose-banner-1",
+            "instruction": "PLACARD BATTEN 맨 왼쪽 세로줄의 위 화살표는 상승, 가운데는 정지, 아래 화살표는 하강입니다.",
+            "photoIds": [
+              "multipurpose-banner"
+            ]
+          },
+          {
+            "id": "multipurpose-banner-2",
+            "instruction": "원하는 높이에서 가운데 정지 버튼을 눌러 주세요. 큰 원형 빨간 버튼과 다른 설비 버튼은 누르지 마세요.",
+            "photoIds": [
+              "multipurpose-banner"
+            ]
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "multipurpose-table",
+        "facilityId": "multipurpose",
+        "category": "rules",
+        "title": "보조 원형 테이블",
+        "summary": "전자교탁 뒤쪽 문 안에 보관되어 있습니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "multipurpose-table-1",
+            "instruction": "사진의 전자교탁 뒤쪽 문 안에서 원형 테이블을 꺼내 배치해 주세요.",
+            "photoIds": [
+              "multipurpose-door",
+              "multipurpose-table"
+            ]
+          },
+          {
+            "id": "multipurpose-table-2",
+            "instruction": "배치와 정리는 대관업체에서 직접 진행해 주세요. 사용 후 보관 위치로 돌려놓아 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "multipurpose-restore",
+        "facilityId": "multipurpose",
+        "category": "rules",
+        "title": "책상·의자 원상복구",
+        "summary": "기본 배치 사진에 맞춰 정리해 주세요.",
+        "published": true,
+        "steps": [
+          {
+            "id": "multipurpose-restore-1",
+            "instruction": "책상·의자는 사진의 기본 배치대로 복구해 주세요. 배치와 정리는 대관업체에서 직접 진행해 주세요.",
+            "photoIds": [
+              "multipurpose-room"
+            ]
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "multipurpose-water",
+        "facilityId": "multipurpose",
+        "category": "rules",
+        "title": "정수기·쓰레기통",
+        "summary": "시설 안에 비치되어 있습니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "multipurpose-water-1",
+            "instruction": "쓰레기는 대관시설 안에 비치된 쓰레기통에 버려 주세요.",
+            "photoIds": [
+              "multipurpose-water"
+            ]
+          },
+          {
+            "id": "multipurpose-water-2",
+            "instruction": "정수기에 물이 없거나 이상이 있으면 담당자에게 문의해 주세요. 설비를 분해하거나 이동하지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "multipurpose-laptop",
+        "facilityId": "multipurpose",
+        "category": "usage",
+        "title": "Windows 노트북 연결",
+        "summary": "비치 케이블 연결 → Windows + P → 복제",
+        "published": true,
+        "steps": [
+          {
+            "id": "multipurpose-laptop-1",
+            "instruction": "비치 HDMI 케이블을 노트북 쪽 단자에 끝까지 연결해 주세요.",
+            "photoIds": [
+              "multipurpose-hdmi"
+            ]
+          },
+          {
+            "id": "multipurpose-laptop-2",
+            "instruction": "Windows 키와 P 키를 함께 누르고 ‘복제’를 선택해 주세요. 시설 화면에 같은 화면이 나타나는지 확인해 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "multipurpose-laptop-fail",
+        "facilityId": "multipurpose",
+        "category": "troubleshooting",
+        "title": "노트북 화면이 나오지 않아요",
+        "summary": "Windows 노트북에서 순서대로 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "multipurpose-laptop-fail-1",
+            "instruction": "노트북에 연결된 HDMI 케이블을 뺐다가 다시 끝까지 연결해 주세요.",
+            "photoIds": [
+              "multipurpose-hdmi"
+            ]
+          },
+          {
+            "id": "multipurpose-laptop-fail-2",
+            "instruction": "Windows 키와 P 키를 함께 누르고 ‘복제’를 선택해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "multipurpose-laptop-fail-3",
+            "instruction": "이미 복제 상태라면 ‘PC 화면만’을 선택한 뒤 다시 ‘복제’를 선택해 주세요. 계속 나오지 않으면 담당자에게 문의해 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "multipurpose-wifi",
+        "facilityId": "multipurpose",
+        "category": "troubleshooting",
+        "title": "인터넷·Wi-Fi가 연결되지 않아요",
+        "summary": "현장 안내와 무선랜카드 연결 여부만 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "multipurpose-wifi-1",
+            "instruction": "현장 Wi-Fi 안내를 확인해 주세요. 전자교탁 PC는 무선랜카드가 연결되어 있는지 눈으로 확인해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "multipurpose-wifi-2",
+            "instruction": "무선랜카드가 없거나 계속 접속되지 않으면 담당자에게 문의해 주세요. 드라이버 설치와 IP·DNS 설정은 바꾸지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "multipurpose-video-sound",
+        "facilityId": "multipurpose",
+        "category": "troubleshooting",
+        "title": "화면은 나오는데 동영상 소리가 안 나요",
+        "summary": "프로그램과 Windows 음소거·볼륨을 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "multipurpose-video-sound-1",
+            "instruction": "재생 프로그램과 Windows의 음소거·볼륨을 확인해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "multipurpose-video-sound-2",
+            "instruction": "계속 소리가 나지 않으면 담당자에게 문의해 주세요. 음향랙·채널·배선은 바꾸지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "multipurpose-exit",
+        "facilityId": "multipurpose",
+        "category": "rules",
+        "title": "퇴실 전 확인",
+        "summary": "장비 종료·원상복구·쓰레기 정리",
+        "published": true,
+        "steps": [
+          {
+            "id": "multipurpose-exit-1",
+            "instruction": "사용한 장비는 시설에 비치된 종료 안내에 따라 종료해 주세요. 순서가 불명확하면 담당자에게 문의해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "multipurpose-exit-2",
+            "instruction": "책상·의자·비품을 기본 배치로 복구하고, 설치한 현수막과 가져온 물품을 정리해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "multipurpose-exit-3",
+            "instruction": "쓰레기는 대관시설 안에 비치된 쓰레기통에 버려 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "multipurpose-comfort",
+        "facilityId": "multipurpose",
+        "category": "rules",
+        "title": "냉난방·조명 문의",
+        "summary": "조절 방법이 불명확하면 담당자에게 문의합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "multipurpose-comfort-1",
+            "instruction": "냉난방·조명 조절은 현장 안내를 확인하거나 담당자에게 문의해 주세요. 설비 설정은 임의로 바꾸지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      }
+    ]
+  },
+  {
+    "id": "meeting-414",
+    "name": "414호 회의실",
+    "location": "3동 4층",
+    "capacity": 40,
+    "publicationStatus": "published",
+    "updatedAt": "2026-10-31",
+    "contact": {
+      "phone": "",
+      "hours": ""
+    },
+    "guides": [
+      {
+        "id": "meeting-414-screen",
+        "facilityId": "meeting-414",
+        "category": "usage",
+        "title": "전자교탁·화면 사용",
+        "summary": "전원과 화면 상태를 확인해 주세요.",
+        "published": true,
+        "steps": [
+          {
+            "id": "meeting-414-screen-1",
+            "instruction": "전자교탁 PC와 스크린에 화면이 나오는지 확인해 주세요.",
+            "photoIds": [
+              "meeting-414-pc",
+              "meeting-414-screen"
+            ]
+          },
+          {
+            "id": "meeting-414-screen-2",
+            "instruction": "화면이 꺼져 있으면 담당자에게 전자교탁 시작 안내를 요청해 주세요. 확인되지 않은 버튼과 배선은 바꾸지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "meeting-414-power-fail",
+        "facilityId": "meeting-414",
+        "category": "troubleshooting",
+        "title": "컴퓨터·화면이 나오지 않아요",
+        "summary": "본체 전원 문제와 화면 문제를 구분합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "meeting-414-power-fail-1",
+            "instruction": "PC 본체 전원 표시가 켜져 있는지 확인해 주세요. 본체가 켜져 있으면 화면만 나오지 않는다고 담당자에게 알려 주세요.",
+            "photoIds": [
+              "meeting-414-pc"
+            ]
+          },
+          {
+            "id": "meeting-414-power-fail-2",
+            "instruction": "전원 위치가 불명확하거나 화면이 계속 나오지 않으면 담당자에게 문의해 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "meeting-414-mic",
+        "facilityId": "meeting-414",
+        "category": "usage",
+        "title": "무선마이크 보관 위치",
+        "summary": "사진의 보관함을 확인해 주세요.",
+        "published": true,
+        "steps": [
+          {
+            "id": "meeting-414-mic-1",
+            "instruction": "사진의 전자교탁 안 보관함에서 무선마이크를 확인해 주세요. 전원 버튼 위치나 사용법이 불명확하면 담당자에게 문의해 주세요.",
+            "photoIds": [
+              "meeting-414-mic"
+            ]
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "meeting-414-mic-fail",
+        "facilityId": "meeting-414",
+        "category": "troubleshooting",
+        "title": "마이크가 작동하지 않아요",
+        "summary": "표시창과 배터리 상태를 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "meeting-414-mic-fail-1",
+            "instruction": "무선마이크 전원 표시창이 켜져 있는지 확인해 주세요.",
+            "photoIds": [
+              "meeting-414-mic"
+            ]
+          },
+          {
+            "id": "meeting-414-mic-fail-2",
+            "instruction": "표시창이 꺼져 있거나 소리가 나지 않으면 담당자에게 문의해 주세요. 배터리 교체와 음향 설정 변경은 담당자에게 요청해 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "meeting-414-light",
+        "facilityId": "meeting-414",
+        "category": "rules",
+        "title": "조명·냉난방 위치",
+        "summary": "벽면 스위치를 확인해 주세요.",
+        "published": true,
+        "steps": [
+          {
+            "id": "meeting-414-light-1",
+            "instruction": "사진의 벽면 조명 스위치를 확인해 주세요. 냉난방 조작이나 조명 구역이 불명확하면 담당자에게 문의해 주세요.",
+            "photoIds": [
+              "meeting-414-light"
+            ]
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "meeting-414-water",
+        "facilityId": "meeting-414",
+        "category": "rules",
+        "title": "정수기 위치",
+        "summary": "물 부족·이상은 담당자에게 알려 주세요.",
+        "published": true,
+        "steps": [
+          {
+            "id": "meeting-414-water-1",
+            "instruction": "시설 내 정수기를 이용해 주세요. 물이 없거나 이상이 있으면 담당자에게 문의해 주세요. 물통을 교체하거나 설비를 분해하지 마세요.",
+            "photoIds": [
+              "meeting-414-water"
+            ]
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "meeting-414-laptop",
+        "facilityId": "meeting-414",
+        "category": "usage",
+        "title": "Windows 노트북 연결",
+        "summary": "비치 케이블 연결 → Windows + P → 복제",
+        "published": true,
+        "steps": [
+          {
+            "id": "meeting-414-laptop-1",
+            "instruction": "비치 HDMI 케이블을 노트북 쪽 단자에 끝까지 연결해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "meeting-414-laptop-2",
+            "instruction": "Windows 키와 P 키를 함께 누르고 ‘복제’를 선택해 주세요. 시설 화면에 같은 화면이 나타나는지 확인해 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "meeting-414-laptop-fail",
+        "facilityId": "meeting-414",
+        "category": "troubleshooting",
+        "title": "노트북 화면이 나오지 않아요",
+        "summary": "Windows 노트북에서 순서대로 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "meeting-414-laptop-fail-1",
+            "instruction": "노트북에 연결된 HDMI 케이블을 뺐다가 다시 끝까지 연결해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "meeting-414-laptop-fail-2",
+            "instruction": "Windows 키와 P 키를 함께 누르고 ‘복제’를 선택해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "meeting-414-laptop-fail-3",
+            "instruction": "이미 복제 상태라면 ‘PC 화면만’을 선택한 뒤 다시 ‘복제’를 선택해 주세요. 계속 나오지 않으면 담당자에게 문의해 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "meeting-414-wifi",
+        "facilityId": "meeting-414",
+        "category": "troubleshooting",
+        "title": "인터넷·Wi-Fi가 연결되지 않아요",
+        "summary": "현장 안내와 무선랜카드 연결 여부만 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "meeting-414-wifi-1",
+            "instruction": "현장 Wi-Fi 안내를 확인해 주세요. 전자교탁 PC는 무선랜카드가 연결되어 있는지 눈으로 확인해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "meeting-414-wifi-2",
+            "instruction": "무선랜카드가 없거나 계속 접속되지 않으면 담당자에게 문의해 주세요. 드라이버 설치와 IP·DNS 설정은 바꾸지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "meeting-414-video-sound",
+        "facilityId": "meeting-414",
+        "category": "troubleshooting",
+        "title": "화면은 나오는데 동영상 소리가 안 나요",
+        "summary": "프로그램과 Windows 음소거·볼륨을 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "meeting-414-video-sound-1",
+            "instruction": "재생 프로그램과 Windows의 음소거·볼륨을 확인해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "meeting-414-video-sound-2",
+            "instruction": "계속 소리가 나지 않으면 담당자에게 문의해 주세요. 음향랙·채널·배선은 바꾸지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "meeting-414-exit",
+        "facilityId": "meeting-414",
+        "category": "rules",
+        "title": "퇴실 전 확인",
+        "summary": "장비 종료·원상복구·쓰레기 정리",
+        "published": true,
+        "steps": [
+          {
+            "id": "meeting-414-exit-1",
+            "instruction": "사용한 장비는 시설에 비치된 종료 안내에 따라 종료해 주세요. 순서가 불명확하면 담당자에게 문의해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "meeting-414-exit-2",
+            "instruction": "책상·의자·비품을 기본 배치로 복구하고, 설치한 현수막과 가져온 물품을 정리해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "meeting-414-exit-3",
+            "instruction": "쓰레기는 대관시설 안에 비치된 쓰레기통에 버려 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      }
+    ]
+  },
+  {
+    "id": "briefing",
+    "name": "브리핑룸",
+    "location": "3동 9층",
+    "capacity": 19,
+    "publicationStatus": "published",
+    "updatedAt": "2026-10-31",
+    "contact": {
+      "phone": "",
+      "hours": ""
+    },
+    "guides": [
+      {
+        "id": "briefing-board",
+        "facilityId": "briefing",
+        "category": "usage",
+        "title": "전자칠판 화면 확인",
+        "summary": "전원 위치와 화면 상태를 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "briefing-board-1",
+            "instruction": "사진의 전자칠판 오른쪽 하단 전원 버튼 위치를 확인해 주세요. 화면이 이미 켜져 있으면 다시 누르지 마세요.",
+            "photoIds": [
+              "briefing-board"
+            ]
+          },
+          {
+            "id": "briefing-board-2",
+            "instruction": "PC 화면이 나오지 않으면 담당자에게 문의해 주세요. 입력 채널은 변경하지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "briefing-lectern",
+        "facilityId": "briefing",
+        "category": "usage",
+        "title": "전자교탁 사용",
+        "summary": "전원·화면 상태를 확인해 주세요.",
+        "published": true,
+        "steps": [
+          {
+            "id": "briefing-lectern-1",
+            "instruction": "전자교탁 화면과 PC가 켜져 있는지 확인해 주세요. 시작 방법이 불명확하면 담당자에게 문의해 주세요.",
+            "photoIds": [
+              "briefing-lectern"
+            ]
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "briefing-power-fail",
+        "facilityId": "briefing",
+        "category": "troubleshooting",
+        "title": "컴퓨터·전자칠판이 켜지지 않아요",
+        "summary": "어느 장비가 꺼져 있는지 알려 주세요.",
+        "published": true,
+        "steps": [
+          {
+            "id": "briefing-power-fail-1",
+            "instruction": "전자교탁과 전자칠판 중 어느 화면이 꺼져 있는지 확인해 주세요.",
+            "photoIds": [
+              "briefing-lectern",
+              "briefing-board"
+            ]
+          },
+          {
+            "id": "briefing-power-fail-2",
+            "instruction": "담당자에게 꺼진 장비와 현재 상태를 알려 주세요. 내부 배선과 입력 채널은 바꾸지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "briefing-mic",
+        "facilityId": "briefing",
+        "category": "usage",
+        "title": "고정마이크 위치",
+        "summary": "테이블에 설치된 마이크를 사용합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "briefing-mic-1",
+            "instruction": "테이블 위 고정마이크를 확인해 주세요. 버튼 조작이 불명확하면 담당자에게 문의해 주세요.",
+            "photoIds": [
+              "briefing-mic"
+            ]
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "briefing-mic-fail",
+        "facilityId": "briefing",
+        "category": "troubleshooting",
+        "title": "마이크에서 소리가 나지 않아요",
+        "summary": "고정마이크 상태를 담당자에게 알려 주세요.",
+        "published": true,
+        "steps": [
+          {
+            "id": "briefing-mic-fail-1",
+            "instruction": "고정마이크 표시 상태를 확인하고 담당자에게 알려 주세요. 벽면·메인 음향랙의 전원·채널·배선은 조작하지 마세요.",
+            "photoIds": [
+              "briefing-mic"
+            ]
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "briefing-air",
+        "facilityId": "briefing",
+        "category": "rules",
+        "title": "냉난방·조명 위치",
+        "summary": "스탠드 기기와 벽면 제어기를 구분합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "briefing-air-1",
+            "instruction": "사진의 스탠드 냉난방기와 벽면 제어기를 확인해 주세요. 벽면 FCU 제어기는 현장의 조작금지 안내를 따라 주세요.",
+            "photoIds": [
+              "briefing-air",
+              "briefing-light"
+            ]
+          },
+          {
+            "id": "briefing-air-2",
+            "instruction": "작동 방법이나 조명 구역이 불명확하면 담당자에게 문의해 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "briefing-laptop",
+        "facilityId": "briefing",
+        "category": "usage",
+        "title": "Windows 노트북 연결",
+        "summary": "비치 케이블 연결 → Windows + P → 복제",
+        "published": true,
+        "steps": [
+          {
+            "id": "briefing-laptop-1",
+            "instruction": "비치 HDMI 케이블을 노트북 쪽 단자에 끝까지 연결해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "briefing-laptop-2",
+            "instruction": "Windows 키와 P 키를 함께 누르고 ‘복제’를 선택해 주세요. 시설 화면에 같은 화면이 나타나는지 확인해 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "briefing-laptop-fail",
+        "facilityId": "briefing",
+        "category": "troubleshooting",
+        "title": "노트북 화면이 나오지 않아요",
+        "summary": "Windows 노트북에서 순서대로 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "briefing-laptop-fail-1",
+            "instruction": "노트북에 연결된 HDMI 케이블을 뺐다가 다시 끝까지 연결해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "briefing-laptop-fail-2",
+            "instruction": "Windows 키와 P 키를 함께 누르고 ‘복제’를 선택해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "briefing-laptop-fail-3",
+            "instruction": "이미 복제 상태라면 ‘PC 화면만’을 선택한 뒤 다시 ‘복제’를 선택해 주세요. 계속 나오지 않으면 담당자에게 문의해 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "briefing-wifi",
+        "facilityId": "briefing",
+        "category": "troubleshooting",
+        "title": "인터넷·Wi-Fi가 연결되지 않아요",
+        "summary": "현장 안내와 무선랜카드 연결 여부만 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "briefing-wifi-1",
+            "instruction": "현장 Wi-Fi 안내를 확인해 주세요. 전자교탁 PC는 무선랜카드가 연결되어 있는지 눈으로 확인해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "briefing-wifi-2",
+            "instruction": "무선랜카드가 없거나 계속 접속되지 않으면 담당자에게 문의해 주세요. 드라이버 설치와 IP·DNS 설정은 바꾸지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "briefing-video-sound",
+        "facilityId": "briefing",
+        "category": "troubleshooting",
+        "title": "화면은 나오는데 동영상 소리가 안 나요",
+        "summary": "프로그램과 Windows 음소거·볼륨을 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "briefing-video-sound-1",
+            "instruction": "재생 프로그램과 Windows의 음소거·볼륨을 확인해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "briefing-video-sound-2",
+            "instruction": "계속 소리가 나지 않으면 담당자에게 문의해 주세요. 음향랙·채널·배선은 바꾸지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "briefing-exit",
+        "facilityId": "briefing",
+        "category": "rules",
+        "title": "퇴실 전 확인",
+        "summary": "장비 종료·원상복구·쓰레기 정리",
+        "published": true,
+        "steps": [
+          {
+            "id": "briefing-exit-1",
+            "instruction": "사용한 장비는 시설에 비치된 종료 안내에 따라 종료해 주세요. 순서가 불명확하면 담당자에게 문의해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "briefing-exit-2",
+            "instruction": "책상·의자·비품을 기본 배치로 복구하고, 설치한 현수막과 가져온 물품을 정리해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "briefing-exit-3",
+            "instruction": "쓰레기는 대관시설 안에 비치된 쓰레기통에 버려 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      }
+    ]
+  },
+  {
+    "id": "conference",
+    "name": "대회의실",
+    "location": "5동 3층",
+    "capacity": 60,
+    "publicationStatus": "published",
+    "updatedAt": "2026-10-31",
+    "contact": {
+      "phone": "",
+      "hours": ""
+    },
+    "guides": [
+      {
+        "id": "conference-power",
+        "facilityId": "conference",
+        "category": "usage",
+        "title": "전자교탁·화면 켜기",
+        "summary": "전자교탁 → PC → 프로젝터",
+        "published": true,
+        "steps": [
+          {
+            "id": "conference-power-1",
+            "instruction": "전자교탁 옆면 빨간 메인 전원을 확인해 주세요. 이미 켜져 있으면 다시 끄지 마세요.",
+            "photoIds": [
+              "conference-power"
+            ]
+          },
+          {
+            "id": "conference-power-2",
+            "instruction": "PC 본체 전원과 화면 상태를 확인해 주세요. 전원 위치가 불명확하면 담당자에게 문의해 주세요.",
+            "photoIds": [
+              "conference-panel"
+            ]
+          },
+          {
+            "id": "conference-power-3",
+            "instruction": "프로젝터 리모컨 빨간 전원 버튼을 확인해 주세요. 화면이 이미 나오면 누르지 마세요.",
+            "photoIds": [
+              "conference-remote"
+            ]
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "conference-power-fail",
+        "facilityId": "conference",
+        "category": "troubleshooting",
+        "title": "컴퓨터·화면이 나오지 않아요",
+        "summary": "본체와 화면의 전원 상태를 구분합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "conference-power-fail-1",
+            "instruction": "전자교탁 옆면 빨간 메인 전원을 확인해 주세요. 이미 켜져 있으면 다시 끄지 마세요.",
+            "photoIds": [
+              "conference-power"
+            ]
+          },
+          {
+            "id": "conference-power-fail-2",
+            "instruction": "PC 본체 전원과 화면 상태를 확인해 주세요. 전원 위치가 불명확하면 담당자에게 문의해 주세요.",
+            "photoIds": [
+              "conference-panel"
+            ]
+          },
+          {
+            "id": "conference-power-fail-3",
+            "instruction": "프로젝터 리모컨 빨간 전원 버튼을 확인해 주세요. 화면이 이미 나오면 누르지 마세요.",
+            "photoIds": [
+              "conference-remote"
+            ]
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "conference-mic",
+        "facilityId": "conference",
+        "category": "usage",
+        "title": "무선마이크 켜기",
+        "summary": "아래쪽 전원 버튼과 표시창을 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "conference-mic-1",
+            "instruction": "무선마이크 아래쪽 전원 버튼을 눌러 켜 주세요.",
+            "photoIds": [
+              "conference-mic"
+            ]
+          },
+          {
+            "id": "conference-mic-2",
+            "instruction": "측면 표시창과 배터리 상태를 확인해 주세요. 잔량이 부족하면 담당자에게 문의해 주세요.",
+            "photoIds": [
+              "conference-display"
+            ]
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "conference-mic-fail",
+        "facilityId": "conference",
+        "category": "troubleshooting",
+        "title": "마이크가 작동하지 않아요",
+        "summary": "전원 버튼 → 표시창 → 문의",
+        "published": true,
+        "steps": [
+          {
+            "id": "conference-mic-fail-1",
+            "instruction": "아래쪽 전원 버튼과 측면 표시창을 확인해 주세요.",
+            "photoIds": [
+              "conference-mic",
+              "conference-display"
+            ]
+          },
+          {
+            "id": "conference-mic-fail-2",
+            "instruction": "배터리가 부족하거나 전원은 켜졌는데 소리가 나지 않으면 담당자에게 문의해 주세요. 음향랙은 조작하지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "conference-air",
+        "facilityId": "conference",
+        "category": "rules",
+        "title": "냉난방 조절",
+        "summary": "전원·온도·풍향은 현장에서 조절할 수 있습니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "conference-air-1",
+            "instruction": "벽면 제어기 ON/OFF로 켜고 온도·풍향을 조절해 주세요.",
+            "photoIds": [
+              "conference-air"
+            ]
+          },
+          {
+            "id": "conference-air-2",
+            "instruction": "냉방·난방 모드는 중앙제어입니다. 모드 변경이 필요하면 담당자에게 문의해 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "conference-banner",
+        "facilityId": "conference",
+        "category": "rules",
+        "title": "현수막 설치 문의",
+        "summary": "설치 전에 담당자 안내를 받아 주세요.",
+        "published": true,
+        "steps": [
+          {
+            "id": "conference-banner-1",
+            "instruction": "설치 위치와 방법은 담당자에게 문의해 주세요. 거치대 스위치는 직접 조작하지 마세요.",
+            "photoIds": [
+              "conference-banner"
+            ]
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "conference-water",
+        "facilityId": "conference",
+        "category": "rules",
+        "title": "정수기 위치",
+        "summary": "냉난방·조명 제어부 쪽에 있습니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "conference-water-1",
+            "instruction": "사진의 정수기를 이용해 주세요. 물이 없으면 담당자에게 문의해 주세요. 물통은 직접 교체하지 마세요.",
+            "photoIds": [
+              "conference-water"
+            ]
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "conference-laptop",
+        "facilityId": "conference",
+        "category": "usage",
+        "title": "Windows 노트북 연결",
+        "summary": "비치 케이블 연결 → Windows + P → 복제",
+        "published": true,
+        "steps": [
+          {
+            "id": "conference-laptop-1",
+            "instruction": "비치 HDMI 케이블을 노트북 쪽 단자에 끝까지 연결해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "conference-laptop-2",
+            "instruction": "Windows 키와 P 키를 함께 누르고 ‘복제’를 선택해 주세요. 시설 화면에 같은 화면이 나타나는지 확인해 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "conference-laptop-fail",
+        "facilityId": "conference",
+        "category": "troubleshooting",
+        "title": "노트북 화면이 나오지 않아요",
+        "summary": "Windows 노트북에서 순서대로 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "conference-laptop-fail-1",
+            "instruction": "노트북에 연결된 HDMI 케이블을 뺐다가 다시 끝까지 연결해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "conference-laptop-fail-2",
+            "instruction": "Windows 키와 P 키를 함께 누르고 ‘복제’를 선택해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "conference-laptop-fail-3",
+            "instruction": "이미 복제 상태라면 ‘PC 화면만’을 선택한 뒤 다시 ‘복제’를 선택해 주세요. 계속 나오지 않으면 담당자에게 문의해 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "conference-wifi",
+        "facilityId": "conference",
+        "category": "troubleshooting",
+        "title": "인터넷·Wi-Fi가 연결되지 않아요",
+        "summary": "현장 안내와 무선랜카드 연결 여부만 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "conference-wifi-1",
+            "instruction": "현장 Wi-Fi 안내를 확인해 주세요. 전자교탁 PC는 무선랜카드가 연결되어 있는지 눈으로 확인해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "conference-wifi-2",
+            "instruction": "무선랜카드가 없거나 계속 접속되지 않으면 담당자에게 문의해 주세요. 드라이버 설치와 IP·DNS 설정은 바꾸지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "conference-video-sound",
+        "facilityId": "conference",
+        "category": "troubleshooting",
+        "title": "화면은 나오는데 동영상 소리가 안 나요",
+        "summary": "프로그램과 Windows 음소거·볼륨을 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "conference-video-sound-1",
+            "instruction": "재생 프로그램과 Windows의 음소거·볼륨을 확인해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "conference-video-sound-2",
+            "instruction": "계속 소리가 나지 않으면 담당자에게 문의해 주세요. 음향랙·채널·배선은 바꾸지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "conference-exit",
+        "facilityId": "conference",
+        "category": "rules",
+        "title": "퇴실 전 확인",
+        "summary": "장비 종료·원상복구·쓰레기 정리",
+        "published": true,
+        "steps": [
+          {
+            "id": "conference-exit-1",
+            "instruction": "사용한 장비는 시설에 비치된 종료 안내에 따라 종료해 주세요. 순서가 불명확하면 담당자에게 문의해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "conference-exit-2",
+            "instruction": "책상·의자·비품을 기본 배치로 복구하고, 설치한 현수막과 가져온 물품을 정리해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "conference-exit-3",
+            "instruction": "쓰레기는 대관시설 안에 비치된 쓰레기통에 버려 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      }
+    ]
+  },
+  {
+    "id": "seminar",
+    "name": "세미나실",
+    "location": "5동 3층 301호",
+    "capacity": 60,
+    "publicationStatus": "published",
+    "updatedAt": "2026-10-31",
+    "contact": {
+      "phone": "",
+      "hours": ""
+    },
+    "guides": [
+      {
+        "id": "seminar-power",
+        "facilityId": "seminar",
+        "category": "usage",
+        "title": "전자교탁·화면 사용",
+        "summary": "교탁 옆면 전원부터 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "seminar-power-1",
+            "instruction": "교탁 옆면의 메인 전원이 켜져 있는지 확인해 주세요. 위치가 불명확하면 담당자에게 문의해 주세요.",
+            "photoIds": [
+              "seminar-lectern"
+            ]
+          },
+          {
+            "id": "seminar-power-2",
+            "instruction": "PC 전원과 프로젝터 화면을 확인해 주세요. 화면이 없으면 담당자에게 문의해 주세요.",
+            "photoIds": [
+              "seminar-remote"
+            ]
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "seminar-power-fail",
+        "facilityId": "seminar",
+        "category": "troubleshooting",
+        "title": "컴퓨터·화면이 나오지 않아요",
+        "summary": "교탁 옆면 전원이 꺼져 있는지 먼저 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "seminar-power-fail-1",
+            "instruction": "교탁 옆면 메인 전원이 켜져 있는지 확인해 주세요. 이미 켜져 있으면 다시 끄지 마세요.",
+            "photoIds": [
+              "seminar-lectern"
+            ]
+          },
+          {
+            "id": "seminar-power-fail-2",
+            "instruction": "PC 전원 표시와 스크린 상태를 확인하고, 계속 나오지 않으면 담당자에게 알려 주세요. 입력 채널과 배선은 바꾸지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "seminar-mic",
+        "facilityId": "seminar",
+        "category": "usage",
+        "title": "무선마이크 사용",
+        "summary": "전원·표시 상태를 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "seminar-mic-1",
+            "instruction": "사진의 무선마이크에서 전원 스위치와 표시창을 확인해 주세요. 조작이 불명확하면 담당자에게 문의해 주세요.",
+            "photoIds": [
+              "seminar-mic"
+            ]
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "seminar-mic-fail",
+        "facilityId": "seminar",
+        "category": "troubleshooting",
+        "title": "마이크가 작동하지 않아요",
+        "summary": "전원·배터리 표시를 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "seminar-mic-fail-1",
+            "instruction": "무선마이크의 전원·배터리 표시를 확인해 주세요.",
+            "photoIds": [
+              "seminar-mic"
+            ]
+          },
+          {
+            "id": "seminar-mic-fail-2",
+            "instruction": "표시창이 꺼져 있거나 소리가 나지 않으면 담당자에게 문의해 주세요. 배터리 교체와 음향랙 조작은 담당자에게 요청해 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "seminar-laptop",
+        "facilityId": "seminar",
+        "category": "usage",
+        "title": "Windows 노트북 연결",
+        "summary": "비치 케이블 연결 → Windows + P → 복제",
+        "published": true,
+        "steps": [
+          {
+            "id": "seminar-laptop-1",
+            "instruction": "비치 HDMI 케이블을 노트북 쪽 단자에 끝까지 연결해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "seminar-laptop-2",
+            "instruction": "Windows 키와 P 키를 함께 누르고 ‘복제’를 선택해 주세요. 시설 화면에 같은 화면이 나타나는지 확인해 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "seminar-laptop-fail",
+        "facilityId": "seminar",
+        "category": "troubleshooting",
+        "title": "노트북 화면이 나오지 않아요",
+        "summary": "Windows 노트북에서 순서대로 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "seminar-laptop-fail-1",
+            "instruction": "노트북에 연결된 HDMI 케이블을 뺐다가 다시 끝까지 연결해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "seminar-laptop-fail-2",
+            "instruction": "Windows 키와 P 키를 함께 누르고 ‘복제’를 선택해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "seminar-laptop-fail-3",
+            "instruction": "이미 복제 상태라면 ‘PC 화면만’을 선택한 뒤 다시 ‘복제’를 선택해 주세요. 계속 나오지 않으면 담당자에게 문의해 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "seminar-wifi",
+        "facilityId": "seminar",
+        "category": "troubleshooting",
+        "title": "인터넷·Wi-Fi가 연결되지 않아요",
+        "summary": "현장 안내와 무선랜카드 연결 여부만 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "seminar-wifi-1",
+            "instruction": "현장 Wi-Fi 안내를 확인해 주세요. 전자교탁 PC는 무선랜카드가 연결되어 있는지 눈으로 확인해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "seminar-wifi-2",
+            "instruction": "무선랜카드가 없거나 계속 접속되지 않으면 담당자에게 문의해 주세요. 드라이버 설치와 IP·DNS 설정은 바꾸지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "seminar-video-sound",
+        "facilityId": "seminar",
+        "category": "troubleshooting",
+        "title": "화면은 나오는데 동영상 소리가 안 나요",
+        "summary": "프로그램과 Windows 음소거·볼륨을 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "seminar-video-sound-1",
+            "instruction": "재생 프로그램과 Windows의 음소거·볼륨을 확인해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "seminar-video-sound-2",
+            "instruction": "계속 소리가 나지 않으면 담당자에게 문의해 주세요. 음향랙·채널·배선은 바꾸지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "seminar-exit",
+        "facilityId": "seminar",
+        "category": "rules",
+        "title": "퇴실 전 확인",
+        "summary": "장비 종료·원상복구·쓰레기 정리",
+        "published": true,
+        "steps": [
+          {
+            "id": "seminar-exit-1",
+            "instruction": "사용한 장비는 시설에 비치된 종료 안내에 따라 종료해 주세요. 순서가 불명확하면 담당자에게 문의해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "seminar-exit-2",
+            "instruction": "책상·의자·비품을 기본 배치로 복구하고, 설치한 현수막과 가져온 물품을 정리해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "seminar-exit-3",
+            "instruction": "쓰레기는 대관시설 안에 비치된 쓰레기통에 버려 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "seminar-comfort",
+        "facilityId": "seminar",
+        "category": "rules",
+        "title": "냉난방·조명 문의",
+        "summary": "조절 방법이 불명확하면 담당자에게 문의합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "seminar-comfort-1",
+            "instruction": "냉난방·조명 조절은 현장 안내를 확인하거나 담당자에게 문의해 주세요. 설비 설정은 임의로 바꾸지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      }
+    ]
+  },
+  {
+    "id": "computer",
+    "name": "전산교육실",
+    "location": "5동 3층 303호",
+    "capacity": 40,
+    "publicationStatus": "published",
+    "updatedAt": "2026-10-31",
+    "contact": {
+      "phone": "",
+      "hours": ""
+    },
+    "guides": [
+      {
+        "id": "computer-lectern",
+        "facilityId": "computer",
+        "category": "usage",
+        "title": "강사 전자교탁·전자칠판",
+        "summary": "강사석 화면 상태를 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "computer-lectern-1",
+            "instruction": "강사 전자교탁 옆면 전원과 제어패널 위치를 확인해 주세요. 교육생 PC 전원과 구분해 주세요.",
+            "photoIds": [
+              "computer-power",
+              "computer-panel"
+            ]
+          },
+          {
+            "id": "computer-lectern-2",
+            "instruction": "강사 PC 화면이 전자칠판에 나오지 않으면 담당자에게 시작 순서를 문의해 주세요. 미확인 버튼은 누르지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "computer-student",
+        "facilityId": "computer",
+        "category": "usage",
+        "title": "교육생 PC 이용",
+        "summary": "사용 중인 좌석 번호를 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "computer-student-1",
+            "instruction": "사용할 좌석과 PC를 확인해 주세요. PC 전원 위치가 불명확하면 좌석 번호를 담당자에게 알려 주세요.",
+            "photoIds": [
+              "computer-room"
+            ]
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "computer-student-fail",
+        "facilityId": "computer",
+        "category": "troubleshooting",
+        "title": "교육생 PC가 켜지지 않아요",
+        "summary": "강사 전자교탁과 구분하여 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "computer-student-fail-1",
+            "instruction": "해당 좌석 PC·모니터 전원 표시를 확인해 주세요.",
+            "photoIds": [
+              "computer-room"
+            ]
+          },
+          {
+            "id": "computer-student-fail-2",
+            "instruction": "전원 버튼을 찾기 어렵거나 켜지지 않으면 담당자에게 좌석 번호를 알려 주세요. 강사 교탁 스위치를 대신 조작하지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "computer-lectern-fail",
+        "facilityId": "computer",
+        "category": "troubleshooting",
+        "title": "강사 PC·전자칠판 화면이 나오지 않아요",
+        "summary": "강사석 장비 문제로 구분하여 문의합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "computer-lectern-fail-1",
+            "instruction": "강사 전자교탁과 전자칠판 중 어느 장비가 켜져 있는지 확인해 주세요.",
+            "photoIds": [
+              "computer-power",
+              "computer-panel"
+            ]
+          },
+          {
+            "id": "computer-lectern-fail-2",
+            "instruction": "담당자에게 강사석 화면 연결을 요청해 주세요. 내부 포트와 입력 채널은 바꾸지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "computer-internet",
+        "facilityId": "computer",
+        "category": "troubleshooting",
+        "title": "인터넷이 연결되지 않아요",
+        "summary": "해당 좌석만 문제인지 주변 PC도 같은지 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "computer-internet-1",
+            "instruction": "사용 중인 PC에서 다른 웹페이지도 열리는지 확인해 주세요.",
+            "photoIds": [
+              "computer-room"
+            ]
+          },
+          {
+            "id": "computer-internet-2",
+            "instruction": "다른 이용자의 작업을 방해하지 않는 범위에서 주변 PC도 같은 증상인지 확인해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "computer-internet-3",
+            "instruction": "담당자에게 좌석 번호와 주변 PC의 동일 증상 여부를 알려 주세요. 네트워크 설정은 바꾸지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "computer-video-sound",
+        "facilityId": "computer",
+        "category": "troubleshooting",
+        "title": "화면은 나오는데 동영상 소리가 안 나요",
+        "summary": "프로그램과 Windows 음소거·볼륨을 확인합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "computer-video-sound-1",
+            "instruction": "재생 프로그램과 Windows의 음소거·볼륨을 확인해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "computer-video-sound-2",
+            "instruction": "계속 소리가 나지 않으면 담당자에게 문의해 주세요. 음향랙·채널·배선은 바꾸지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "computer-exit",
+        "facilityId": "computer",
+        "category": "rules",
+        "title": "퇴실 전 확인",
+        "summary": "장비 종료·원상복구·쓰레기 정리",
+        "published": true,
+        "steps": [
+          {
+            "id": "computer-exit-1",
+            "instruction": "사용한 장비는 시설에 비치된 종료 안내에 따라 종료해 주세요. 순서가 불명확하면 담당자에게 문의해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "computer-exit-2",
+            "instruction": "책상·의자·비품을 기본 배치로 복구하고, 설치한 현수막과 가져온 물품을 정리해 주세요.",
+            "photoIds": []
+          },
+          {
+            "id": "computer-exit-3",
+            "instruction": "쓰레기는 대관시설 안에 비치된 쓰레기통에 버려 주세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      },
+      {
+        "id": "computer-comfort",
+        "facilityId": "computer",
+        "category": "rules",
+        "title": "냉난방·조명 문의",
+        "summary": "조절 방법이 불명확하면 담당자에게 문의합니다.",
+        "published": true,
+        "steps": [
+          {
+            "id": "computer-comfort-1",
+            "instruction": "냉난방·조명 조절은 현장 안내를 확인하거나 담당자에게 문의해 주세요. 설비 설정은 임의로 바꾸지 마세요.",
+            "photoIds": []
+          }
+        ],
+        "stopAndContact": "계속 문제가 있거나 조작이 불명확하면 담당자에게 문의해 주세요."
+      }
+    ]
+  },
+  {
+    "id": "small-1",
+    "name": "소회의실1",
+    "location": "4동 2층",
+    "capacity": 10,
+    "publicationStatus": "preparing",
+    "updatedAt": "2026-10-31",
+    "contact": {
+      "phone": "",
+      "hours": ""
+    },
+    "guides": []
+  },
+  {
+    "id": "small-2",
+    "name": "소회의실2",
+    "location": "4동 2층",
+    "capacity": 10,
+    "publicationStatus": "preparing",
+    "updatedAt": "2026-10-31",
+    "contact": {
+      "phone": "",
+      "hours": ""
+    },
+    "guides": []
+  }
+]

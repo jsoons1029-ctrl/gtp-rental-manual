@@ -1,0 +1,230 @@
+[
+  {
+    "id": "multipurpose-power",
+    "facilityId": "multipurpose",
+    "path": "photos/multipurpose-power.jpg",
+    "description": "전자교탁 옆면의 빨간 메인 전원"
+  },
+  {
+    "id": "multipurpose-pc",
+    "facilityId": "multipurpose",
+    "path": "photos/multipurpose-pc.jpg",
+    "description": "PC 본체 전원 버튼"
+  },
+  {
+    "id": "multipurpose-hdmi",
+    "facilityId": "multipurpose",
+    "path": "photos/multipurpose-hdmi.jpg",
+    "description": "비치 HDMI 케이블"
+  },
+  {
+    "id": "multipurpose-remote",
+    "facilityId": "multipurpose",
+    "path": "photos/multipurpose-remote.jpg",
+    "description": "프로젝터 리모컨의 빨간 전원 버튼"
+  },
+  {
+    "id": "multipurpose-mic",
+    "facilityId": "multipurpose",
+    "path": "photos/multipurpose-mic.jpg",
+    "description": "무선마이크 아래쪽 전원 버튼"
+  },
+  {
+    "id": "multipurpose-battery",
+    "facilityId": "multipurpose",
+    "path": "photos/multipurpose-battery.jpg",
+    "description": "무선마이크 배터리 표시창"
+  },
+  {
+    "id": "multipurpose-wired",
+    "facilityId": "multipurpose",
+    "path": "photos/multipurpose-wired.jpg",
+    "description": "유선마이크 ON 스위치"
+  },
+  {
+    "id": "multipurpose-light",
+    "facilityId": "multipurpose",
+    "path": "photos/multipurpose-light.jpg",
+    "description": "강의 중 소등할 검은 동그라미 표시 구역"
+  },
+  {
+    "id": "multipurpose-map",
+    "facilityId": "multipurpose",
+    "path": "photos/multipurpose-map.jpg",
+    "description": "조명 구역 배치도"
+  },
+  {
+    "id": "multipurpose-banner",
+    "facilityId": "multipurpose",
+    "path": "photos/multipurpose-banner.jpg",
+    "description": "맨 왼쪽 PLACARD BATTEN의 세 버튼"
+  },
+  {
+    "id": "multipurpose-room",
+    "facilityId": "multipurpose",
+    "path": "photos/multipurpose-room.jpg",
+    "description": "다목적실 기본 책상·의자 배치"
+  },
+  {
+    "id": "multipurpose-door",
+    "facilityId": "multipurpose",
+    "path": "photos/multipurpose-door.jpg",
+    "description": "전자교탁 뒤 보조 테이블 보관실 문"
+  },
+  {
+    "id": "multipurpose-table",
+    "facilityId": "multipurpose",
+    "path": "photos/multipurpose-table.jpg",
+    "description": "보조 원형 테이블"
+  },
+  {
+    "id": "multipurpose-water",
+    "facilityId": "multipurpose",
+    "path": "photos/multipurpose-water.jpg",
+    "description": "시설 안의 정수기·쓰레기통"
+  },
+  {
+    "id": "meeting-414-pc",
+    "facilityId": "meeting-414",
+    "path": "photos/meeting-414-pc.jpg",
+    "description": "414호 전자교탁 PC 본체"
+  },
+  {
+    "id": "meeting-414-screen",
+    "facilityId": "meeting-414",
+    "path": "photos/meeting-414-screen.jpg",
+    "description": "414호 스크린"
+  },
+  {
+    "id": "meeting-414-mic",
+    "facilityId": "meeting-414",
+    "path": "photos/meeting-414-mic.jpg",
+    "description": "414호 무선마이크 보관함"
+  },
+  {
+    "id": "meeting-414-light",
+    "facilityId": "meeting-414",
+    "path": "photos/meeting-414-light.jpg",
+    "description": "414호 벽면 조명 스위치"
+  },
+  {
+    "id": "meeting-414-water",
+    "facilityId": "meeting-414",
+    "path": "photos/meeting-414-water.jpg",
+    "description": "414호 정수기"
+  },
+  {
+    "id": "briefing-board",
+    "facilityId": "briefing",
+    "path": "photos/briefing-board.jpg",
+    "description": "브리핑룸 전자칠판 현장 안내"
+  },
+  {
+    "id": "briefing-lectern",
+    "facilityId": "briefing",
+    "path": "photos/briefing-lectern.jpg",
+    "description": "브리핑룸 전자교탁 현장 안내"
+  },
+  {
+    "id": "briefing-mic",
+    "facilityId": "briefing",
+    "path": "photos/briefing-mic.jpg",
+    "description": "브리핑룸 고정마이크"
+  },
+  {
+    "id": "briefing-light",
+    "facilityId": "briefing",
+    "path": "photos/briefing-light.jpg",
+    "description": "벽면 FCU 제어기·조명 스위치"
+  },
+  {
+    "id": "briefing-air",
+    "facilityId": "briefing",
+    "path": "photos/briefing-air.jpg",
+    "description": "스탠드 냉난방기"
+  },
+  {
+    "id": "conference-power",
+    "facilityId": "conference",
+    "path": "photos/conference-power.jpg",
+    "description": "대회의실 전자교탁 옆면 메인 전원"
+  },
+  {
+    "id": "conference-panel",
+    "facilityId": "conference",
+    "path": "photos/conference-panel.jpg",
+    "description": "대회의실 전자교탁 화면·제어패널"
+  },
+  {
+    "id": "conference-mic",
+    "facilityId": "conference",
+    "path": "photos/conference-mic.jpg",
+    "description": "무선마이크 아래쪽 전원 버튼"
+  },
+  {
+    "id": "conference-display",
+    "facilityId": "conference",
+    "path": "photos/conference-display.jpg",
+    "description": "마이크 측면 표시창"
+  },
+  {
+    "id": "conference-air",
+    "facilityId": "conference",
+    "path": "photos/conference-air.jpg",
+    "description": "대회의실 냉난방 제어기"
+  },
+  {
+    "id": "conference-water",
+    "facilityId": "conference",
+    "path": "photos/conference-water.jpg",
+    "description": "냉난방·조명 제어부 쪽 정수기"
+  },
+  {
+    "id": "conference-banner",
+    "facilityId": "conference",
+    "path": "photos/conference-banner.jpg",
+    "description": "대회의실 현수막 거치대 안내"
+  },
+  {
+    "id": "conference-remote",
+    "facilityId": "conference",
+    "path": "photos/conference-remote.jpg",
+    "description": "대회의실 프로젝터 리모컨"
+  },
+  {
+    "id": "seminar-lectern",
+    "facilityId": "seminar",
+    "path": "photos/seminar-lectern.jpg",
+    "description": "세미나실 전자교탁"
+  },
+  {
+    "id": "seminar-mic",
+    "facilityId": "seminar",
+    "path": "photos/seminar-mic.jpg",
+    "description": "세미나실 무선마이크 전원 스위치"
+  },
+  {
+    "id": "seminar-remote",
+    "facilityId": "seminar",
+    "path": "photos/seminar-remote.jpg",
+    "description": "세미나실 프로젝터 리모컨"
+  },
+  {
+    "id": "computer-power",
+    "facilityId": "computer",
+    "path": "photos/computer-power.jpg",
+    "description": "강사 전자교탁 전원입니다. 교육생 PC 전원과 다릅니다."
+  },
+  {
+    "id": "computer-panel",
+    "facilityId": "computer",
+    "path": "photos/computer-panel.jpg",
+    "description": "강사석 전자교탁 제어패널"
+  },
+  {
+    "id": "computer-room",
+    "facilityId": "computer",
+    "path": "photos/computer-room.jpg",
+    "description": "전산교육실 교육생 좌석과 PC"
+  }
+]
