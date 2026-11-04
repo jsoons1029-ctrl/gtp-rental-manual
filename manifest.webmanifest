@@ -1,0 +1,1 @@
+{"name": "경기테크노파크 대관시설 매뉴얼", "short_name": "대관 매뉴얼", "lang": "ko", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#f5f7fa", "theme_color": "#174b83", "icons": [{"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"}, {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"}]}
